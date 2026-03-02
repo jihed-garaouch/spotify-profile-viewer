@@ -8,14 +8,14 @@
     "url": "https://github.com/jihed-garaouch/spotify-profile-viewer.git"
   },
   "keywords": [],
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jihed-garaouch/spotify-profile-viewer/issues"
   },
   "homepage": "https://github.com/jihed-garaouch/spotify-profile-viewer#readme",
   "engines": {
-    "node": "10.13.0"
+    "node": "20.x"
   },
   "scripts": {
     "client:install": "cd client && yarn",
